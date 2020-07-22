@@ -116,3 +116,15 @@ grep을 사용하여 data.txt 문자열을 탐색해서 비밀번호를 찾아�
 
 
 
+**Level 9**
+
+sort와 uniq를 사용하는 예제이다.
+
+sort와 uniq를 찾아보면서 파이프(|)라는 것을 알았다.
+
+cat을 하여 data.txt를 열고 sort를 한 후에(uniq는 정렬된 파일에만 유효하다.) uniq의 옵션인 -u(중복된 행이 없는 항목만 출력)을 사용한다.
+
+![lv9_0](image/lv9_0.png)
+
+
+
